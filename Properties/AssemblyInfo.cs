@@ -8,9 +8,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("CodeWars")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("sféra, a. s.")]
 [assembly: AssemblyProduct("CodeWars")]
-[assembly: AssemblyCopyright("Copyright © sféra, a. s. 2018")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
